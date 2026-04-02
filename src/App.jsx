@@ -11,7 +11,7 @@ const App = () => {
   return (
     <>
       <div className='flex flex-col items-center justify-center gap-15'>
-        <h1 className='text-6xl text-red-400 mt-30 mb-10'>To-Do App</h1>
+        <h1 className='text-6xl text-gray-400 mt-30 mb-10'>To-Do App</h1>
         <Textarr />
         <Work />
       </div>
